@@ -1,0 +1,1 @@
+Most files here are my Javascript solutions for `Advent Of Code`.
